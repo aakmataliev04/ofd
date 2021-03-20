@@ -1,0 +1,27 @@
+.footer {
+    min-width: 100vw;
+    height: 400px;
+    background: radial-gradient(circle, rgba(12,28,107,1) 0%, rgba(11,24,102,1) 73%);
+    padding: 50px;
+}
+/*.footerWrapper {*/
+/*    margin: 50px;*/
+/*}*/
+.footerLogo {
+    width: 200px;
+    height: 60px;
+    background-color: white;
+    margin-top: 8px;
+   margin-right: 200px;
+}
+.footerMenu {
+    display: flex;
+    color: aliceblue;
+    margin: 0 auto;
+    justify-content: center;
+}
+.linkContainer {
+    display: flex;
+    flex-direction: column;
+   margin-left: 50px;
+}
